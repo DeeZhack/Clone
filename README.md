@@ -15,4 +15,4 @@ bash Abm-install.sh
 # Don't copy my script or modified 
 # Follow My github account 
 # Fork and Start 
-# I'd you have any question or any problem, Guy's You Can contact my fb page 
+# If you have any question or any problem, Guy's You Can contact my fb page 
