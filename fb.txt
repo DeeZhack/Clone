@@ -1,7 +1,6 @@
 pakistan
-Pakistan
- passlistpak.txt 
-@@ -0,0 +1,740 @@
+Pakistan123
+@ -0,0 +1,740 @@
 786786
 Pakistan786
 123321
