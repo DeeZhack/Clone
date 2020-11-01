@@ -10,3 +10,9 @@ cd Clone
 pip2 install requests && pip2 install mechanize 
 bash Abm-install.sh
 ```
+# Pakistan Super Multi Brute Force 
+# All Country Cloning with chose Password 
+# Don't copy my script or modified 
+# Follow My github account 
+# Fork and Start 
+# I'd you have any question or any problem, Guy's You Can contact my fb page 
